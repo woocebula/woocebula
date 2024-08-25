@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wojtek
-- 👀 I’m interested in food(tech), marketing and most recently in agriculture.
-- 🌱 I’m currently learning web development. 
+- 👀 I’m interested in food tech, marketing, and, most recently, agriculture.
+- 🌱 I’m learning anything that comes in useful.
 - 📫 woocebula@gmail.com
 
 <!---
